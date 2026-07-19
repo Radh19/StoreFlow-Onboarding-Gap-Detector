@@ -1,0 +1,15 @@
+pandas
+numpy
+faker
+python-dotenv
+groq
+streamlit
+plotly
+schedule
+flask
+flask-cors
+
+# Install only the driver matching your DATA_SOURCE:
+# snowflake-connector-python   # DATA_SOURCE=snowflake
+# google-cloud-bigquery        # DATA_SOURCE=bigquery
+# sqlalchemy psycopg2-binary   # DATA_SOURCE=postgres
