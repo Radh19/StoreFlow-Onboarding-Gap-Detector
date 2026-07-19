@@ -36,7 +36,7 @@ Traditional funnel dashboards only show where users drop off. They don't explain
 ## Dashboard Walkthrough
 
 ### Executive Summary
-![Executive Summary](./screenshots/executive-summary.png)
+<img width="956" height="435" alt="image" src="https://github.com/user-attachments/assets/fd201b84-6e7b-4710-a744-b6876c15e820" />
 
 - Activation Rate
 - Total Merchants
@@ -45,7 +45,8 @@ Traditional funnel dashboards only show where users drop off. They don't explain
 - GMV Opportunity
 
 ### Funnel Analysis
-![Funnel Analysis](./screenshots/funnel-analysis.png)
+<img width="944" height="439" alt="image" src="https://github.com/user-attachments/assets/e62b264b-db01-4aab-80f5-7baaaf4b88f3" />
+
 
 Shows merchant progression through each onboarding step and allows drill-down into root causes for any drop-off.
 
