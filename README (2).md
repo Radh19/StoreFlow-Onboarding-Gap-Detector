@@ -69,19 +69,18 @@ Displays evidence-backed AI explanations, confidence levels, evidence signals, a
 > Median time-to-launch: 6d · Potential lift to target: +0% (~0 merchants, ~$0)
 
 ### Opportunity Priority & Benchmarks
-![Opportunity Priority & Benchmarks](./screenshots/opportunity-benchmarks.png)
+<img width="956" height="416" alt="image" src="https://github.com/user-attachments/assets/2c22109b-3ad1-4818-ba9f-a9745a53ff87" />
+
 
 Ranks improvement opportunities based on impact and effort while comparing channel performance against company and industry benchmarks.
 
 ### Root Cause Analysis
-![Root Cause Analysis](./screenshots/root-cause-analysis.png)
-<!-- Add a screenshot of this tab -->
+<img width="960" height="431" alt="image" src="https://github.com/user-attachments/assets/f9c199d2-25d4-4963-a1f3-31105df4c1a3" />
 
 Drills into activation and drop-off patterns by device and business type, isolating which segments are driving a given trend or anomaly.
 
 ### Editable Assumptions
-![Editable Assumptions](./screenshots/editable-assumptions.png)
-<!-- Add a screenshot of this tab -->
+<img width="960" height="97" alt="image" src="https://github.com/user-attachments/assets/fcc9ef72-8f52-42c9-910f-fa782c369b39" />
 
 Lets you adjust underlying business assumptions (e.g. average order value, conversion targets) and instantly recalculates GMV opportunity across the dashboard.
 
