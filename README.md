@@ -1,4 +1,4 @@
-# StoreFlow AI – Merchant Activation Intelligence Dashboard
+# StoreFlow App – Onboarding Gap Detector
 
 **Turns raw onboarding data into evidence-backed, confidence-scored recommendations — cutting the time to spot activation drop-offs from hours of manual analysis to minutes.**
 <!-- Replace with your own one-line, outcome-style hook if this metric isn't accurate -->
