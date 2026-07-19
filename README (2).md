@@ -68,9 +68,14 @@ Displays evidence-backed AI explanations, confidence levels, evidence signals, a
 >
 > Median time-to-launch: 6d · Potential lift to target: +0% (~0 merchants, ~$0)
 
+
+### Evidence signal breakdown:
+<img width="924" height="262" alt="image" src="https://github.com/user-attachments/assets/5e4ce8d9-a44b-42cf-941e-9615add5ffe8" />
+
+Every AI claim is backed by a transparent, threshold-based check rather than an opaque model output. For each cohort, five signals are tested against fixed thresholds (sample size, device concentration, first-time seller share, business type concentration, worst-step drop severity), and the confidence tier is only as strong as the number of signals that actually pass.
+
 ### Opportunity Priority & Benchmarks
 <img width="956" height="416" alt="image" src="https://github.com/user-attachments/assets/2c22109b-3ad1-4818-ba9f-a9745a53ff87" />
-
 
 Ranks improvement opportunities based on impact and effort while comparing channel performance against company and industry benchmarks.
 
