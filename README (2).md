@@ -146,7 +146,7 @@ npm install
 
 # Add your Groq API key
 cp .env.example .env
-# then set GROQ_API_KEY=your_key_here in .env
+# then set GROQ_API_KEY=your_api_key in .env
 
 npm run dev
 ```
